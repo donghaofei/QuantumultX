@@ -35,5 +35,6 @@
         "20 0-6 * * * https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/YOUTH_READ.js, tag=中青看点极速版自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
         "10 0 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/yiLi.js, tag=伊利乳品, img-url=https://raw.githubusercontent.com/id77/QuantumultX/master/icon/yiLi.png",
         "0 1-16 10 5,9,10,11,12 * * https://raw.githubusercontent.com/ziye12/JavaScript/master/flwhbziye.js,tag=返利网红包, img-url=https://raw.githubusercontent.com/58xinian/icon/1c2c4ce0ee5e8a1e872372189f4ed3938ad2f010/flw.png, enabled=true",
+        "10 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js, tag=天天挖矿, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/ttwk.png, enabled=true",
     ]
 }
