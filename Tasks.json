@@ -1,1 +1,8 @@
-
+{
+    "name": "Dong",
+    "description": "https://github.com/donghaofei",
+    "task": [
+        "1,3 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+        
+    ]
+}
