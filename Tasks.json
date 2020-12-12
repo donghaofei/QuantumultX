@@ -37,7 +37,7 @@
         "11 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_split.js, tag=年终奖, enabled=true",
         "13 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_ms_redrain.js, tag=秒杀红包雨, enabled=true",
         "15 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_home.js, tag=领京豆额外奖励, enabled=true",
-        "13 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_health.js, tag=健康抽奖机, enabled=true",
+        "36 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_health.js, tag=健康抽奖机, enabled=true",
         "17 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car.js, tag=京东汽车, enabled=true",
         "0 0,9,11,13,15,17,19,20,21,23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js, tag=直播红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
         "19 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_digital_floor.js, tag=数码加购京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
@@ -46,5 +46,6 @@
         "*/20 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js, tag=企鹅阅读, img-url=https://raw.githubusercontent.com/58xinian/icon/master/QQReadSign.png,enabled=true",
         "12 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_apple_live.js, tag=苹果抽奖机, enabled=true",
         "10-20/5 12 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live.js, tag=京东直播, img-url= https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png , enabled=true",
+        "12 * * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js, tag=金融养猪",
     ]
 }
