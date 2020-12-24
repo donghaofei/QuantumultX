@@ -53,5 +53,6 @@
         "35 1-23 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Youth_AutoRead.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
         "10-20/2 9 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_watch.js, tag=京东看一看, enabled=true",
         "55 23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_unbind.js, tag=注销京东会员卡, enabled=true",
+        "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_crazy_joy_coin.js, tag=crazyJoy挂机, enabled=true",
     ]
 }
