@@ -20,7 +20,7 @@
         "1 6 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jr_sign.js, tag=金融打卡领年终奖, enabled=true",
         "5 6,12,18 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_fruit.js, tag=东东农场,enabled=true",
         "15 6,12,18 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pet.js, tag=东东萌宠, enabled=true",
-        "25 */4 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_story.js, tag=京喜金牌厂长, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true",
+        "25 */4 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_story.js, tag=京喜金牌厂长, enabled=true",
         "1 7-21/2 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_plantBean.js, tag=种豆得豆, enabled=true",        
         "10 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_bean_home.js, tag=领京豆额外奖励, enabled=true",
         "11 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_car.js, tag=京东汽车, enabled=true",
