@@ -45,7 +45,7 @@
         "45 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_dreamFactory.js, tag=京喜工厂, enabled=true",
         "50 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_jdfactory.js, tag=东东工厂, enabled=true",
         "55 * * * * https://raw.githubusercontent.com/MoPoQAQ/Script/main/Me/jx_cfd.js, tag=京喜财富岛, enabled=true",
-        "*/2 0-16 * * * https://raw.githubusercontent.com/hanfuxing/personal-collection/raw/master/htt/htt_task.js, tag=惠头条, enabled=true",
+        "*/2 0-16 * * * https://gitee.com/hanfuxing/personal-collection/raw/master/htt/htt_task.js, tag=惠头条, enabled=true",
         "*/30 0-23 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/youth.js, tag=中青看点极速版签到, enabled=true",
         "35 1-23 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Youth_AutoRead.js, tag=中青自动阅读, enabled=true",
     ]
