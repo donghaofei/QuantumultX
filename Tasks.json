@@ -38,7 +38,7 @@
         "30 1,7,9,12,18,21 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy.js, tag=宠汪汪, enabled=true",        
         "0 0,6 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_steal.js, tag=宠汪汪偷好友积分与狗粮,  enabled=true",
         "35 1-23/5 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_superMarket.js, tag=东东超市, enabled=true",        
-        "40 * * * * https://github.com/lxk0301/jd_scripts/raw/master/jd_daily_egg.js, tag=天天提鹅, enabled=true",
+        "40 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_daily_egg.js, tag=天天提鹅, enabled=true",
         "41 */3 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_speed.js, tag=京东天天加速, enabled=true",  
         "42 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_feedPets.js, tag=宠汪汪喂食 , enabled=true",
         "43 * * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_pigPet.js, tag=金融养猪, enabled=true",      
